@@ -1,46 +1,46 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "0.0.0.0" # the base hostname & protocol for your site
+url: "https://github.com/Pandafu/portfolio-iro" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Joey Kirk
+  title: Riss Gadi
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Designer, Developer, Writer, and Dad.</h1>
+     <h1>Developer in Training</h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: rissgadi@gmail.com
   behance:
   bitbucket:
-  dribbble: "joeykirk"
-  facebook: "joeykirk"
+  dribbble: " "
+  facebook: ""
   flickr:
   github: "madebymunsters/type-theme"
   google_plus:
-  instagram: "joeykirk"
-  linkedin:  # Full URL
+  instagram: ""
+  linkedin:  https://www.linkedin.com/in/riss-gadi-38711a28
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange:  http://stackexchange.com/users/9228531/riss-gadi
   steam:
   tumblr:
-  twitter: "joeykirk"
+  twitter: "Riss"
   wordpress:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: UA-87314876-1
   disqus_shortname:
   katex: true # Enable if using math markup
 
