@@ -9,7 +9,7 @@ Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. K
 
 <form action="https://getsimpleform.com/messages?form_api_token= cb9405c9eaa6b5abf0d4460366836c5f" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='http://rissgadi.com' />
+  <input type='hidden' name='redirect_to' value='http://rissgadi.com'/>
   <input type='text' name='name' placeholder='Your Full Name' />
   <input type='email' name='email' placeholder='Your E-mail Address' />
   <textarea name='message' placeholder='Write your message ...'></textarea>
