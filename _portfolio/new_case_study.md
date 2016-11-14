@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Case Study
-feature-img: "http://placekitten.com/400/400"
+feature-img: http://placekitten.com/400/400
 thumbnail-path: http://placekitten.com/400/400
 short-description: Alexa Kitty and coffee
 
