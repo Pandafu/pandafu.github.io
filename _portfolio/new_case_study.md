@@ -8,7 +8,7 @@ short-description: Alexa Kitty and coffee
 ---
 
 {:.center}
-![]({{http://new_case_study.com }}/http://placekitten.com/400/400)
+![]({{http://new_case_study.html }}/http://placekitten.com/400/400)
 
 Coffee Ipsums! Nom Nom Nom...
 
